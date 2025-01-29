@@ -1,4 +1,3 @@
-# terpene-prediction-models
 # Cannabis Strain Prediction Readme #
 
 This repository contains code for predicting the effects of cannabis strains based on their terpene composition. The primary predictive model used is Logistic Regression, trained on a dataset sourced from Leafly.
